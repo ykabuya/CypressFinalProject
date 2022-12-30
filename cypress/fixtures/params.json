@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "Gas_Therm_field":"1.55",
+            "Propane_Gal_field":"6",
+            "Oil_Gal_field":"5.5",
+            "Summer_KWHR_field":"0.25",
+            "Winter_KWHR_field":"0.34"
+        
+        }
+    ],
+    "data1": [
+        {
+            "Gas_Therm_field":"2",
+            "Propane_Gal_field":"7.5",
+            "Oil_Gal_field":"4",
+            "Summer_KWHR_field":"1.5",
+            "Winter_KWHR_field":"1.76"
+        
+        }
+    ],
+    "data2": [
+        {
+            "Gas_Therm_field":"5.34",
+            "Propane_Gal_field":"6.15",
+            "Oil_Gal_field":"0.234",
+            "Summer_KWHR_field":"2.456",
+            "Winter_KWHR_field":"1.7678"
+        
+        }
+    ]
+}
